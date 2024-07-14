@@ -6,11 +6,8 @@
 p,
 ul li,
 ol li{
+    font-size:  25px;
     text-align: left;
-}
-
-h1 {
-    font-size: larger;
 }
 
 em {
@@ -21,8 +18,9 @@ p {
     text-align: justify;
 }
 
+h1,
 .title {
     text-align: center;
     list-style: none;
-    font-size: 100px;
+    font-size: 50px;
 }
