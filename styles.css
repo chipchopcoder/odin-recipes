@@ -1,0 +1,29 @@
+* {
+    text-align: center;
+    font-size: medium;
+    font-family: "Courier New"
+}
+
+p,
+ul li,
+ol li{
+    text-align: left;
+}
+
+h1 {
+    font-size: larger;
+}
+
+em {
+    font-weight: bold;
+}
+
+p {
+    text-align: justify;
+}
+
+.title {
+    text-align: center;
+    list-style: none;
+    font-size: large;
+}
